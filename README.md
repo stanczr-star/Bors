@@ -24,6 +24,15 @@ isotropic configurations, the resulting compactness bound is approximately
 mass–radius estimate is R > 2.9698327676 GM/c². The precise hypotheses and
 exact definitions of the constants are stated in the manuscript.
 
+## RAR–TOV trajectory and Lyapunov barrier
+
+![RAR–TOV trajectory and filled Lyapunov barrier](rar-tov.png)
+
+The red curve is an illustrative numerical trajectory.
+The filled Lyapunov barrier gives the compactness bound
+2Gm(r)/(rc²) < X* ≈ 0.67343859.
+The numerical trajectory itself is not Lean-certified.
+
 The included PDF has 22 pages.
 
 Package contents
