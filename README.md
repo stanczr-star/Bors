@@ -150,3 +150,5 @@ Acknowledgments
 
 The manuscript credits ChatGPT (Astra) for the kinetic-moment lemma
 and acknowledges AI assistance with LaTeX typesetting
+
+Verified with Lean 4.35.0-rc3 / Mathlib 5e72202a: compilation succeeds with zero errors. All theorem statements are preserved; no sorry, admit, or custom axioms were added. Appendix C not verified as auxilliary.
