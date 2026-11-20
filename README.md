@@ -2,7 +2,7 @@ RAR Lyapunov manuscript with Appendix C
 
 Paper
 
-Kinetic moment estimates and a one-sided Lyapunov barrier for the relativistic fermionic Michie–King equation
+## Kinetic moment estimates and a one-sided Lyapunov barrier for the relativistic fermionic Michie–King equation
 
 Authors:
 
