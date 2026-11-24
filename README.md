@@ -1,12 +1,12 @@
 ## Kinetic moment estimates and a one-sided Lyapunov barrier for the relativistic fermionic Michie–King equation
 
-Authors:
+Authors: Robert Stańczy — Mathematical Institute, University of Wrocław,
+Wrocław, Poland.
 
 Dorota Bors — Department of Differential Equations and Computer Science,
 Faculty of Mathematics and Computer Science, University of Łódź, Łódź, Poland.
 
-Robert Stańczy — Mathematical Institute, University of Wrocław,
-Wrocław, Poland.
+
 
 This package contains the LaTeX source, compiled paper, and editable figure
 for the cutoff Ruffini–Argüelles–Rueda (RAR), or relativistic fermionic
