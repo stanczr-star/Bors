@@ -4,12 +4,6 @@ Authors: Robert Stańczy — Mathematical Institute, University of Wrocław,
 Wrocław, Poland. Dorota Bors — Department of Differential Equations and Computer Science,
 Faculty of Mathematics and Computer Science, University of Łódź, Łódź, Poland.
 
-
-
-This package contains the LaTeX source, compiled paper, and editable figure
-for the cutoff Ruffini–Argüelles–Rueda (RAR), or relativistic fermionic
-Michie–King, equation of state.
-
 The paper develops kinetic moment identities, endpoint asymptotics, a
 comparison with a linear equation of state, and a filled one-sided Lyapunov
 barrier for the Tolman–Oppenheimer–Volkoff (TOV) system. For regular static
@@ -35,6 +29,9 @@ Extract the ZIP before opening or compiling its source. Keep the files in
 their existing relative locations inside RAR_Lyapunov_Appendix_C/.
 
 File
+This package contains the LaTeX source, compiled paper, and editable figure
+for the cutoff Ruffini–Argüelles–Rueda (RAR), or relativistic fermionic
+Michie–King, equation of state.
 
 Purpose
 
